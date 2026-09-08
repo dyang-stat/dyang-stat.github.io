@@ -13,28 +13,22 @@ redirect_from:
 </style>
 
 
-<p style="text-align: justify;">
-I am an Associate Professor in the Department of Statistics and Data Science at Tsinghua University. I received my PhD in Statistics from the Wharton School at the University of Pennsylvania and bachelor’s degrees in Statistics and Economics from Peking University. Before joining Tsinghua, I was an Associate Professor in the Innovation and Information Management area at the University of Hong Kong (HKU) Business School and an Assistant Professor in the Department of Statistics at Rutgers University. I also served as Associate Director of the Institute of Digital Economy and Innovation at HKU.
- </p>
 
+I am an Associate Professor in the Department of Statistics and Data Science at Tsinghua University. I received my PhD in Statistics from the Wharton School at the University of Pennsylvania and bachelor’s degrees in Statistics and Economics from Peking University. Before joining Tsinghua, I was an Associate Professor in the Innovation and Information Management area at the University of Hong Kong (HKU) Business School and an Assistant Professor in the Department of Statistics at Rutgers University. I also served as Associate Director of the Institute of Digital Economy and Innovation at HKU.
 
 
 Prospective PhD students/Postdocs/RAs: 
 ------
 
-<p style="text-align: justify;">
 If you are interested, self-motivated, and have solid background in statistics, mathematics, and computing, please send me an email with your CV, <strong>transcripts</strong>, and a short description of your research interests. 
-</p>
 
 Academic Appointments:
 ------
-<ul>
-    <li>Associate Professor, Department of Statistics and Data Science, Tsinghua University</li>
-    <li>Associate Director, Institute of Digital Economy and Innovation, The University of Hong Kong</li>
-    <li>Associate Professor, Innovation and Information Management, Faculty of Business and Economics, The University of Hong Kong</li>
-    <li>Assistant Professor, Department of Statistics, Rutgers University</li>
-    <li>Postdoc, Statistical and Applied Mathematical Sciences Institute</li>
-</ul>
+- Associate Professor, Department of Statistics and Data Science, Tsinghua University
+- Associate Director, Institute of Digital Economy and Innovation, The University of Hong Kong
+- Associate Professor, Innovation and Information Management, Faculty of Business and Economics, The University of Hong Kong
+- Assistant Professor, Department of Statistics, Rutgers University
+- Postdoc, Statistical and Applied Mathematical Sciences Institute
 
 Education:
 ------
@@ -57,7 +51,7 @@ Research Interests:
 
 Editorial Board:
 ------
-- Associate Editor, JASA , 2026-
+- Associate Editor, JASA, 2026-
 - Associate Editor, AOAS, 2026-
 - Associate Editor, Journal of Business Research, 2025-
 - Associate Editor, Statistical Methods and Applications, 2024-
