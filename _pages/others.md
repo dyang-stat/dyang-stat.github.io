@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /Chinese/
+permalink: /Others/
 author_profile: true
 classes: wide
 ---
