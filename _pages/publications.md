@@ -15,13 +15,15 @@ author_profile: true
 --------------
 <ul>
     <li>Shenzhen SZRI2023-TBRF-03, Smart Healthcare – Accessibility, Quality and Affordability, 2022-2027.</li>
-    <li>Hong Kong RECAP: A Systematic Response Strategy for Novel Infectious Disease Pandemic. Co-PI. CRF Project C7162-20GF, Jul. 2021- Dec. 2024.</li>
+    <li>Hong Kong RECAP: A Systematic Response Strategy for Novel Infectious Disease Pandemic. Co-PI. CRF Project C7162-20GF, Jul. 2021- Dec. 2025.</li>
     <li>Statistical Learning with Big Data of Dynamic Tensor Structure. PI. GRF Project No. 17301620, Jan. 2021 - Jun. 2024.</li>
     <li>NSF BIGDATA, IIS-1741390, Statistical Learning with Large Dynamic Tensor Data, Co-PI, 2017-2020.</li>
 </ul>
 
 ## Preprints:
 --------------
+- Guoxing He, Dan Yang, and Wei Zhang (2026) <br> Post-Experiment Decisions: The Dual Adjustments for Rollout and Downstream Optimizations <br> Accepted by MSOM 2026 SIG Day. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6203681)
+
 - Rong Chen, Yuefeng Han, Zebang Li, Han Xiao, Dan Yang, Ruofan Yu (2022) <br> Analysis of Tensor Time Series: tensorTS.
 
 - Sanyou Wu, Dan Yang, Yan Xu, and Long Feng (2025) <br> Sparsity-Induced Global Matrix Autoregressive Model with Auxiliary Network Data. [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5174546)

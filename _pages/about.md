@@ -51,8 +51,8 @@ Research Interests:
 
 Editorial Board:
 ------
-- Associate Editor, JASA, 2026-
-- Associate Editor, AOAS, 2026-
+- Associate Editor, Journal of the American Statistical Association, 2026-
+- Associate Editor, Annals of Applied Statistics, 2026-
 - Associate Editor, Journal of Business Research, 2025-
 - Associate Editor, Statistical Methods and Applications, 2024-
 - Associate Editor, Statistica Sinica, 2020-2023
