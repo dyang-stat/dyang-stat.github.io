@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /Others/
+permalink: /others/
 author_profile: true
 classes: wide
 ---
