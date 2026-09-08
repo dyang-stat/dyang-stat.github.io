@@ -12,9 +12,9 @@ title                    : "Dan Yang's homepage"
 title_separator          : "" # "-"
 name                     : &name "Dan Yang"
 description              : &description "personal description"
-url                      : https://dyanghku.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dyang-stat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dyanghku/dyanghku.github.io"
+repository               : "dyang-stat/dyang-stat.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,11 +24,11 @@ author:
   avatar           : "danyang_pic.png"
   name             : "Dan Yang (杨丹)"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor at HKU"
-  location         : "Hong Kong"
+  bio              : "Associate Professor at Tsinghua"
+  location         : "Beijing, China"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "dyanghku@hku.hk" 
+  email            : "dyang@tsinghua.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
