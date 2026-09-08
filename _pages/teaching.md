@@ -6,15 +6,19 @@ author_profile: true
 classes: wide
 ---
 ## At Tsinghua University
+--------------
+- 2026-2027: 
 
 ## At HKU: [GBA (HK-SZ) Part Time MBA]
 --------------
+- 2025-2026:  PMBA 6093 Analytics for Managers, Classes C-D
 - 2024-2025:  PMBA 6093 Analytics for Managers, Classes C-D
 - 2023-2024:  PMBA 6093 Analytics for Managers, Classes C-E
 - 2022-2023:  PMBA 6093 Analytics for Managers, Classes C-D
 
-## At HKU: [Master of Science in Business Analytics (MSBA)](https://msc.hkubs.hku.hk/articles/masterofscienceinbusinessanalytics)
+## At HKU: [Master of Science in Business Analytics (MSBA)]
 --------------
+- 2025-2026:  MSBA 7013 Forecasting and Predictive Analytics, Class A
 - 2024-2025:  MSBA 7013 Forecasting and Predictive Analytics, Class A
 - 2023-2024:  MSBA 7013 Forecasting and Predictive Analytics, Classes A-B
 - 2022-2023:  MSBA 7013 Forecasting and Predictive Analytics, Classes A-B 
@@ -33,9 +37,11 @@ classes: wide
     * Forecasting and Predictive Analytics
     * Managing and Mining Big Data
     * R Bootcamp
-- China Resources Data Scientist Program, Cohorts 1-5
+    * Capstone
+- China Resources Data Scientist Program, Cohorts 1-6
     * Forecasting and Predictive Analytics
     * Managing and Mining Big Data
+    * Capstone
 
 ## At Rutgers:
 --------------
