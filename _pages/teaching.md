@@ -5,8 +5,9 @@ permalink: /teaching/
 author_profile: true
 classes: wide
 ---
+## At Tsinghua University
 
-## At HKU: [GBA (HK-SZ) Part Time MBA](https://mba.hkubs.hku.hk/part-time-gba-mba/)
+## At HKU: [GBA (HK-SZ) Part Time MBA]
 --------------
 - 2024-2025:  PMBA 6093 Analytics for Managers, Classes C-D
 - 2023-2024:  PMBA 6093 Analytics for Managers, Classes C-E
