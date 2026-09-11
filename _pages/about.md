@@ -14,7 +14,7 @@ redirect_from:
 
 I am an Associate Professor in the Department of Statistics and Data Science at Tsinghua University. I received my PhD in Statistics from the Wharton School at the University of Pennsylvania and bachelor’s degrees in Statistics and Economics from Peking University. Before joining Tsinghua, I was an Associate Professor in the Innovation and Information Management area at the University of Hong Kong (HKU) Business School and an Assistant Professor in the Department of Statistics at Rutgers University. I also served as Associate Director of the Institute of Digital Economy and Innovation at HKU.
 
-[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=dgk1lbkAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=dgk1lbkAAAAJ)
 
 Prospective PhD students/Postdocs/RAs: 
 ------
